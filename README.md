@@ -1,5 +1,6 @@
 # Ex-04-EDA
-# AIM:
+# AIM: 
+   To perform EDA on the given data set.
 # Explanation
 The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
